@@ -5,15 +5,13 @@
 
 
 ## OVERVIEW OF THE PROJECT
-
-
-## PROJECT: E-commerce React Shopping Website 
-<img height=20px src="blob:https://web.whatsapp.com/7dcdd9e8-6651-4bd4-ba9c-c3a154196cab">
-<img height=20px src="blob:https://web.whatsapp.com/efa12a6d-3835-4150-8b3c-5bf42aad855c">
-<img height=20px src="blob:https://web.whatsapp.com/e1244d1b-413f-4e35-9d2d-699b44217812">
-<img height=20px src="blob:https://web.whatsapp.com/b8f9a50e-6cd4-48f2-b719-6b919d928ab6">
-<img height=20px src="blob:https://web.whatsapp.com/0d571b49-e423-4bd4-9b68-2d154cf149a6">
-<img height=20px src="blob:https://web.whatsapp.com/536a03da-d2e3-40f1-97a5-578c90adc1c0">
+## PROJECT: E-commerce React Shop![7dcdd9e8-6651-4bd4-ba9c-c3a154196cab](https://github.com/user-attachments/assets/073d59d9-7ad5-4478-a475-5f86fa942752)
+ping Website 
+![efa12a6d-3835-4150-8b3c-5bf42aad855c](https://github.com/user-attachments/assets/90b9d8f6-ba98-4914-b140-bec9399988b1)
+![e1244d1b-413f-4e35-9d2d-699b44217812](https://github.com/user-attachments/assets/1941465b-7d90-412b-bfe7-3c78bd0226ba)
+![b8f9a50e-6cd4-48f2-b719-6b919d928ab6](https://github.com/user-attachments/assets/c6076ff4-87c4-4c11-8c13-f5d54230383c)
+![0d571b49-e423-4bd4-9b68-2d154cf149a6](https://github.com/user-attachments/assets/780f45b2-d3c9-4649-952d-cc3e49426a48)
+![536a03da-d2e3-40f1-97a5-578c90adc1c0](https://github.com/user-attachments/assets/f3b5ced9-73e4-46af-ad33-85a4dd6d31a3)
 
 ## OBJECTIVES:
 Built a e-commerce platform with user authentication,product listings, and a shopping cart. Used React  for the frontend and Express.js  for the backend.Implemented user authentication and authorization. Created product listings and a payment gateway.
