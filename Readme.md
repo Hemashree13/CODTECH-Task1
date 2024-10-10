@@ -32,12 +32,12 @@ The backend of this e-commerce website is built using **Node.js** and **Express.
 
 ### Technologies Used:
 #### **MERN Stack:**
-**MongoDB:** Efficient and scalable NoSQL database, ensuring robust data storage and retrieval capabilities.
-**Express.js:** Fast and minimalist web framework for Node.js, facilitating the creation of powerful APIs and web applications.
-**React.js:** Dynamic and responsive JavaScript library for building modern and engaging user interfaces, utilizing:
-**useState:** React hook for managing state in functional components, enhancing component interactivity and reactivity. 
-**useContext:** React hook for accessing and consuming context values across components, facilitating efficient data sharing.
-**useReducer:** React hook for managing complex state logic with reducer functions, offering a more organized approach to state management. 
+**MongoDB:** Efficient and scalable NoSQL database, ensuring robust data storage and retrieval capabilities.  
+**Express.js:** Fast and minimalist web framework for Node.js, facilitating the creation of powerful APIs and web applications.  
+**React.js:** Dynamic and responsive JavaScript library for building modern and engaging user interfaces, utilizing:  
+&nbsp;&nbsp;**useState:** React hook for managing state in functional components, enhancing component interactivity and reactivity.  
+&nbsp;&nbsp;**useContext:** React hook for accessing and consuming context values across components, facilitating efficient data sharing.  
+&nbsp;&nbsp;**useReducer:** React hook for managing complex state logic with reducer functions, offering a more organized approach to state management.  
 **Node.js:** Lightweight and efficient JavaScript runtime environment, enabling scalable and high-performance server-side execution.
 
 
